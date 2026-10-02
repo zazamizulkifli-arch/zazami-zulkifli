@@ -1,0 +1,6 @@
+{
+  "name": "Zazami Online Store",
+  "description": "Platform e-dagang barangan tempatan Malaysia dengan pelbagai produk tradisi & kraftangan serta sistem pembayaran yang selamat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
